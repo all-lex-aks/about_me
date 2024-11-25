@@ -3,7 +3,7 @@
 ### **Fullstack-разработчик**
 *Email*: *all-lex-aks@mail.ru*
 
-*Telegram*: *@all-lex-aks*
+*Telegram*: *@all_lex_aks*
 
 
 ### ![Python](Python.png)
