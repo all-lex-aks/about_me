@@ -1,12 +1,12 @@
 
-# ![aak1](img\aak2.jpg)**Алексей Аксютин**
+# ![aak1](https://github.com/all-lex-aks/about_me/tree/main/img/aak2.jpg)**Алексей Аксютин**
 ### **Fullstack-разработчик**
 *Email*: *all-lex-aks@mail.ru*
 
 *Telegram*: *@all-lex-aks*
 
 
-### ![Python](img\Python.png)
+### ![Python](https://github.com/all-lex-aks/about_me/tree/main/img/Python.png)
 
 ## Ключевые навыки
 - Вёрстка сайтов в HTML и CSS
